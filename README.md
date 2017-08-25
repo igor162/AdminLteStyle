@@ -25,22 +25,10 @@ There are multiple ways to install AdminLTE.
 git clone https://github.com/YOUR_USERNAME/AdminLTE.git
 ```
 
-**Bower**
-
-```
-bower install admin-lte
-```
-
-**npm**
-
-```
-npm install --save admin-lte
-```
-
 **Composer**
 
 ```
-composer require "almasaeed2010/adminlte=~2.0"
+composer require "igor162/AdminLteStyle" "dev-master"
 ```
 
 Documentation
