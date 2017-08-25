@@ -1,0 +1,16 @@
+{
+  "name": "igor162/AdminLteStyle",
+  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
+  "homepage": "https://github.com/igor162/AdminLteStyle/",
+  "keywords": ["yii2","extension","adminlte", "css", "js", "less", "responsive", "back-end", "template", "theme", "web", "admin"],
+  "authors": [
+    {
+      "name": "Igor Fandyuhin",
+      "email": "igor162@ya.ru"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/igor162/AdminLteStyle/issues"
+  }
+}
